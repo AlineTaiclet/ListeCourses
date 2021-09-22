@@ -26,8 +26,11 @@
                     <th>Action</th>
                     </thead>
                     <tbody id="tab1">
-
-
+                        {% for i in items %}
+                        <tr>
+                            <td>{{i.nom}}</td>
+                        </tr>
+                        {% endfor %}
                     </tbody>
                 </table>
             </div>
