@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="first-project" />
+    <orderEntry type="module" module-name="list" />
+    <orderEntry type="library" name="font-awesome" level="application" />
   </component>
 </module>
