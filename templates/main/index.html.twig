@@ -10,14 +10,16 @@
                 <h1> Liste de courses</h1>
                 <br>
                 <div class="row">
+                    {{form_start(formItem)}}
                     <div class="col-6">
-                        <input id="item" class="form-control" >
+                        {{form_widget(formItem)}}
                     </div>
                     <div class="col-2">
-                        <button id="btn1" class="btn btn-success">
+                        <button type="submit" id="btn1" class="btn btn-success">
                             <i class="fa fa-plus"></i>
                         </button>
                     </div>
+                    {{form_end(formItem)}}
                 </div>
                 <br>
                 <table  class="table table-striped">
@@ -26,9 +28,10 @@
                     <th>Action</th>
                     </thead>
                     <tbody id="tab1">
-                        {% for i in items %}
+                        {% for item in items %}
                         <tr>
-                            <td>{{i.nom}}</td>
+                            <td>{{item.nom}}</td>
+                            <td></td>
                         </tr>
                         {% endfor %}
                     </tbody>
