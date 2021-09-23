@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4ea0a7-a666-46a7-b3ce-5c04abf8059c" name="Default Changelist" comment="ajout">
+    <list default="true" id="ff4ea0a7-a666-46a7-b3ce-5c04abf8059c" name="Default Changelist" comment="install projet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../list" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -183,7 +184,7 @@
       <updated>1632316126991</updated>
       <workItem from="1632316128116" duration="4735000" />
       <workItem from="1632321746058" duration="5758000" />
-      <workItem from="1632404935242" duration="1890000" />
+      <workItem from="1632404935242" duration="3344000" />
     </task>
     <task id="LOCAL-00001" summary="installation">
       <created>1632316943791</created>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632325718672</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="install projet">
+      <created>1632406878400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632406878400</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +267,7 @@
     <MESSAGE value="home page" />
     <MESSAGE value="script sql" />
     <MESSAGE value="ajout" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout" />
+    <MESSAGE value="install projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="install projet" />
   </component>
 </project>
