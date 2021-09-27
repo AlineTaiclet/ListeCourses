@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ListeCourses.iml" filepath="$PROJECT_DIR$/.idea/ListeCourses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../bucket-list/.idea/first-project.iml" filepath="$PROJECT_DIR$/../bucket-list/.idea/first-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../list/.idea/list.iml" filepath="$PROJECT_DIR$/../list/.idea/list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../team-builder/.idea/team-builder.iml" filepath="$PROJECT_DIR$/../team-builder/.idea/team-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liste-de-courses/.idea/liste-de-courses.iml" filepath="$PROJECT_DIR$/../liste-de-courses/.idea/liste-de-courses.iml" />
     </modules>
   </component>
 </project>

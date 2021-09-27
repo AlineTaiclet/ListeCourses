@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4ea0a7-a666-46a7-b3ce-5c04abf8059c" name="Default Changelist" comment=".env">
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="ff4ea0a7-a666-46a7-b3ce-5c04abf8059c" name="Default Changelist" comment="script SQL">
+      <change beforePath="$PROJECT_DIR$/.idea/ListeCourses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ListeCourses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../team-builder/.idea/team-builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../team-builder/.idea/team-builder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../team-builder/src/Form/EquipeType.php" beforeDir="false" afterPath="$PROJECT_DIR$/../team-builder/src/Form/EquipeType.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../team-builder/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../team-builder/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
         <entry key="$PROJECT_DIR$/../team-builder" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../team-builder" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -181,7 +180,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../team-builder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../liste-de-courses" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -202,7 +201,11 @@
       <workItem from="1632316128116" duration="4735000" />
       <workItem from="1632321746058" duration="5758000" />
       <workItem from="1632404935242" duration="3923000" />
-      <workItem from="1632466032896" duration="10996000" />
+      <workItem from="1632466032896" duration="12676000" />
+      <workItem from="1632744586882" duration="279000" />
+      <workItem from="1632755575051" duration="151000" />
+      <workItem from="1632755984772" duration="202000" />
+      <workItem from="1632756194414" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="installation">
       <created>1632316943791</created>
@@ -267,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632408333313</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit avant correction du prof">
+      <created>1632484871682</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632484871682</updated>
+    </task>
+    <task id="LOCAL-00011" summary="script SQL">
+      <created>1632490880231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632490880231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +311,8 @@
     <MESSAGE value="ajout" />
     <MESSAGE value="install projet" />
     <MESSAGE value=".env" />
-    <option name="LAST_COMMIT_MESSAGE" value=".env" />
+    <MESSAGE value="commit avant correction du prof" />
+    <MESSAGE value="script SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="script SQL" />
   </component>
 </project>

@@ -139,9 +139,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="first-project" />
     <orderEntry type="module" module-name="list" />
     <orderEntry type="library" name="font-awesome" level="application" />
-    <orderEntry type="module" module-name="team-builder" />
+    <orderEntry type="module" module-name="liste-de-courses" />
   </component>
 </module>
